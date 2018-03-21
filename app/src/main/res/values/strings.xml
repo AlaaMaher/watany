@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Elhewar_Elwatany</string>
+    <string name="loading">Loading…</string>
+    <string name="loading_more">Loading More…</string>
+    <string name="error_invalid_information">Invalid user email or password .</string>
+    <string name="error_invalid_mail">Please enter valid mail</string>
+    <string name="error_invalid_password">Please enter a valid password</string>
+    <string name="retry">Retry</string>
+    <string name="error_network_connection">No Internet Connections</string>
+    <string name="verification_code_sent">A verification code has been sent to your E.mail</string>
+    <string name="error_verification_code">Invalid Verification Code</string>
+    <string name="error_invalid_verfication_code">Invalid verification code</string>
+    <string name="permission_camera_denied">Location Permission Denied</string>
+    <string name="permission_camera_neverask">You will never be asked for that permission</string>
+    <string name="error_confirm_mail">Mail and mail confirmation doesn\'t match !</string>
+    <string name="error_invalid_phone">Invalid phone number</string>
+    <string name="error_confirm_password">Password and password confirmation didn\'t match</string>
+    <string name="register_success">You have registered successfully and confirmation code has been send to your phone</string>
+    <string name="error_phone_exist">That  phone number already exists !</string>
+    <string name="error_mail_exist">The mail you have entered already exist !</string>
+    <string name="error_invalid_userName">Invalid user name</string>
+    <string name="error_choose_service">You have to choose a Service</string>
+    <string name="error_choose_transportation">You have to choose a transportation</string>
+    <string name="error_empty_inputs">Check your entered data</string>
+    <string name="error_location">You can\'t get location</string>
+    <string name="activate_location">Location service missing.!</string>
+    <string name="location_missing">Enable location services now?</string>
+    <string name="error_invalid_image">Error invalid image</string>
+    <string name="google_api">AIzaSyAIOZ9MC1Rc9s1Zj3riFjyZpNM-9bFHFHQ</string>
+    <string name="phone_changed_successfully">You have Changed the Phone Successfully</string>
+    <string name="error_policy_agreement">You have to Accept the Policy Terms</string>
+    <string name="succed_phone_verification">You have verified phone successfully</string>
+    <string name="error_refuse_policy">You Can\'t signUp without accepting Policy Terms</string>
+    <string name="succed_password_updated">You successfully update your password</string>
+    <string name="old_password">old password</string>
+    <string name="offline">Offline</string>
+
+</resources>
